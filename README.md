@@ -55,4 +55,3 @@ Build a web app with Streamlit/Flask for real-time email spam detection
 🌐 Connect with Me
 https://www.linkedin.com/in/harsh-pandey-891261354/
 
-Or run directly in Google Colab.-mail-prediction
